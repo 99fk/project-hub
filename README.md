@@ -16,12 +16,14 @@ A modular container for web-based utilities – import, organize, and run tools 
 > Fast, fun, and fully browser-based.
 >
 
-
 - 🎲 **[Backgammon HTML](https://github.com/99fk/backgammon-html)**    
-Minimalist HTML5 Backgammon game in a single file. Play against a friend or the built-in AI.
+  Minimalist HTML5 Backgammon game in a single file. Play against a friend or the built-in AI.
   
-- 🎲 **[Blockudoku HTML](https://github.com/99fk/blockudoku-html)**  
+- 🧩 **[Blockudoku HTML](https://github.com/99fk/blockudoku-html)**  
   Minimalist block puzzle with sound and local highscore tracking.
+
+- ⚪ **[Checkers HTML](https://github.com/99fk/checkers-html)**  
+  Classic Checkers (Draughts) with AI opponent – clean UI, offline-capable.
 
 - ♟️ **[Chess HTML](https://99fk.github.io/chess-html/)**  
   Play against a friend or Stockfish AI – mobile-ready, offline-capable.
