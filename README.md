@@ -44,7 +44,7 @@ A modular container for web-based utilities – import, organize, and run tools 
   Clean Tetris remake – responsive design, runs in any modern browser.
 
 - 🎲 **[Yahtzee HTML](https://github.com/99fk/yahtzee-html)**  
-  Classic Yahtzee in a single HTML file
+  Classic Yahtzee in a single HTML file.
 
 ---
 
