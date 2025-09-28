@@ -30,6 +30,9 @@ A modular container for web-based utilities – import, organize, and run tools 
 
 - 🟡 **[Connect Four HTML](https://github.com/99fk/connect-four-html/)**  
   Connect Four with Minimax AI in a compact, single-file game.
+  
+- 🟤 **[Mancala HTML](https://github.com/99fk/mancala-html)**  
+  Kalah variant of Mancala – single-file HTML5 with AI, undo/redo, sounds, and wood-style design.
 
 - ⚫ **[Nine Men's Morris HTML](https://github.com/99fk/nine-mens-morris-html)**  
   Classic board game, minimal UI, runs without dependencies.
