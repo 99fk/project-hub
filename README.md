@@ -34,6 +34,9 @@ A modular container for web-based utilities – import, organize, and run tools 
 - 🟤 **[Mancala HTML](https://github.com/99fk/mancala-html)**  
   Kalah variant of Mancala – single-file HTML5 with AI, undo/redo, sounds, and wood-style design.
 
+- 🧠 **[Memory HTML](https://github.com/99fk/memory-html)**  
+  Calm and elegant single-player memory game with adjustable deck size, timer, and local best-time tracking.
+
 - ⚫ **[Nine Men's Morris HTML](https://github.com/99fk/nine-mens-morris-html)**  
   Classic board game, minimal UI, runs without dependencies.
 
