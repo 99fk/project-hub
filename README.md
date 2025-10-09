@@ -37,6 +37,9 @@ A modular container for web-based utilities – import, organize, and run tools 
 - 🧠 **[Memory HTML](https://github.com/99fk/memory-html)**  
   Calm and elegant single-player memory game with adjustable deck size, timer, and local best-time tracking.
 
+- 💎 **[Mind Slide](https://github.com/99fk/mind-slide)**  
+  A minimalist HTML5 sliding puzzle inspired by *Slide A Lama*, reimagined for the browser.
+
 - ⚫ **[Nine Men's Morris HTML](https://github.com/99fk/nine-mens-morris-html)**  
   Classic board game, minimal UI, runs without dependencies.
 
