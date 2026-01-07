@@ -46,6 +46,9 @@ A modular container for web-based utilities – import, organize, and run tools 
 - 🧱 **[Retro Ball](https://github.com/99fk/retro-ball)**  
   Breakout-inspired arcade game – pure HTML, CSS & JS.
 
+- ⚪ **[Reversi HTML](https://github.com/99fk/reversi-html)**  
+  Reversi game in a single HTML file with AI (multiple difficulties), undo, hints and sound effects.
+
 - 🟠 **[Snackman](https://github.com/99fk/snackman)**  
   Pac-Man-style maze game with movement animation and sound.
 
