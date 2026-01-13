@@ -52,6 +52,9 @@ A modular container for web-based utilities – import, organize, and run tools 
 - 🟠 **[Snackman](https://github.com/99fk/snackman)**  
   Pac-Man-style maze game with movement animation and sound.
 
+- 🐍 **[Snake HTML](https://github.com/99fk/snake-html)**  
+  Classic Snake game in a single HTML file – clean visuals, smooth controls, offline-capable.
+
 - 🔷 **[Tetris HTML](https://github.com/99fk/tetris-html)**  
   Clean Tetris remake – responsive design, runs in any modern browser.
 
