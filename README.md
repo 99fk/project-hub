@@ -49,6 +49,9 @@ A modular container for web-based utilities – import, organize, and run tools 
 - ⚪ **[Reversi HTML](https://github.com/99fk/reversi-html)**  
   Reversi game in a single HTML file with AI (multiple difficulties), undo, hints and sound effects.
 
+- 🪨 **[Rockfall](https://github.com/99fk/rockfall-html)**  
+  Minimalist arcade survival game with collapsing caves and procedurally generated worlds.
+
 - 🟠 **[Snackman](https://github.com/99fk/snackman)**  
   Pac-Man-style maze game with movement animation and sound.
 
